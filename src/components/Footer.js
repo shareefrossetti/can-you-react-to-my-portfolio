@@ -7,21 +7,21 @@ function Footer() {
     <footer className="footer">
       <div className="content has-text-centered">
         <p>
-          <strong>My Full Stack Development Portfolio</strong> - a React site by{" "}
-          <a href="https://github.com/EmilyNecciai" target="_blank" rel="noreferrer">
-            Emily Necciai Mayeski
+          <strong>My React Portfolio</strong> - a React site by{" "}
+          <a href="https://github.com/sabrtraveler" target="_blank" rel="noreferrer">
+            Shareef Rossetti
           </a>
           .
           <hr />
           <a
-            href="https://www.linkedin.com/in/emilynecciai/"
+            href="https://www.linkedin.com/in/shareefrossetti/"
             target="_blank" rel="noreferrer"
           >
             LinkedIn
           </a>{" "}
           |{" "}{" "}
           <a href="https://www.ithnk.org/" target="_blank" rel="noreferrer">
-            Technical Writing Professional Site
+            Best Coder Site
           </a>
         </p>
       </div>
