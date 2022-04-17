@@ -128,7 +128,7 @@ button:hover {
 
 button[disabled] {
 	cursor: default;
-	opacity: .8;
+	opacity: .9;
 }
 
 img {
