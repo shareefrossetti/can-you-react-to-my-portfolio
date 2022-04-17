@@ -24,7 +24,7 @@ function Portfolio() {
 			description:
 				'This is an application that allows you to play a quiz and it stores their high score in the local host.',
 			image: '5.png',
-			github: 'https://github.com/sabrtraveler/are-you-a-whiz-code-quiz-ohyaithub.com/OwaisIslam/password-generator',
+			github: 'https://github.com/sabrtraveler/are-you-a-whiz-code-quiz-ohya',
 			deployed: 'https://sabrtraveler.github.io/are-you-a-whiz-code-quiz-ohya',
 		},
 		{
