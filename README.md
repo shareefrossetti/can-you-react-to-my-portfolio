@@ -1,6 +1,8 @@
 # React Portfolio Description
 
-Module 20 challenge - An updated portfolio showcasing my full stack dev projects. Contains some projects, an about me, and the ability to download my resume.
+I created a portfolio, using my new React skills to help set me apart from other developers whose portfolios don’t use the latest technologies.
+
+I deployed this application to GitHub Pages.
 
 ## Table of Contents
 
@@ -10,8 +12,12 @@ Module 20 challenge - An updated portfolio showcasing my full stack dev projects
 
 ### Live Site
 
+https://sabrtraveler.github.io/can-you-react-to-my-portfolio/
+
 ### Preview
+
+![Preview](./public/img/screenshot.png)
 
 ## Questions
 
-Reach out to the repo owner, sabrtraveler at bestcoder@bestcoder.com.
+Reach out to me with any questions, www.github.com/sabrtraveler at my email: bestcoder@bestcoder.com.
