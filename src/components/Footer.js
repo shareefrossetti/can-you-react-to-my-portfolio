@@ -20,7 +20,7 @@ function Footer() {
             LinkedIn
           </a>{" "}
           |{" "}{" "}
-          <a href="https://www.ithnk.org/" target="_blank" rel="noreferrer">
+          <a href="https://www.topcoder.com/" target="_blank" rel="noreferrer">
             Best Coder Site
           </a>
         </p>
